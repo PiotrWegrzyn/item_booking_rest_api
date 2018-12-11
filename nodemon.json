@@ -1,0 +1,6 @@
+{
+  "env":{
+    "MONGO_ATLAS_PW": "vocab",
+    "JWT_KEY": "wow2much1stronk3key7wow1much4secret8wow8"
+  }
+}
